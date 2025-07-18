@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Woodcraft-Furniture---Canadian-Made-Solid-Wood-Furniture-Upholstery-Victoria/static/css/main.7cd85c31.css",
+    "main.js": "/Woodcraft-Furniture---Canadian-Made-Solid-Wood-Furniture-Upholstery-Victoria/static/js/main.10e83895.js",
+    "static/js/115.bb70b67e.chunk.js": "/Woodcraft-Furniture---Canadian-Made-Solid-Wood-Furniture-Upholstery-Victoria/static/js/115.bb70b67e.chunk.js",
+    "static/js/111.f0be9581.chunk.js": "/Woodcraft-Furniture---Canadian-Made-Solid-Wood-Furniture-Upholstery-Victoria/static/js/111.f0be9581.chunk.js",
+    "static/js/890.91f800a4.chunk.js": "/Woodcraft-Furniture---Canadian-Made-Solid-Wood-Furniture-Upholstery-Victoria/static/js/890.91f800a4.chunk.js",
+    "static/media/kaushan-script-all-400-normal.woff": "/Woodcraft-Furniture---Canadian-Made-Solid-Wood-Furniture-Upholstery-Victoria/static/media/kaushan-script-all-400-normal.ba623d1ca520a2a711d2.woff",
+    "static/media/sirin-stencil-all-400-normal.woff": "/Woodcraft-Furniture---Canadian-Made-Solid-Wood-Furniture-Upholstery-Victoria/static/media/sirin-stencil-all-400-normal.e1b8add18154b5d65682.woff",
+    "static/media/kaushan-script-latin-400-normal.woff2": "/Woodcraft-Furniture---Canadian-Made-Solid-Wood-Furniture-Upholstery-Victoria/static/media/kaushan-script-latin-400-normal.2855d49bba6b2cb7bec5.woff2",
+    "static/media/sirin-stencil-latin-400-normal.woff2": "/Woodcraft-Furniture---Canadian-Made-Solid-Wood-Furniture-Upholstery-Victoria/static/media/sirin-stencil-latin-400-normal.f668f96beabdc683277b.woff2",
+    "static/media/kaushan-script-latin-ext-400-normal.woff2": "/Woodcraft-Furniture---Canadian-Made-Solid-Wood-Furniture-Upholstery-Victoria/static/media/kaushan-script-latin-ext-400-normal.5a05e21384fe4b1b9db7.woff2",
+    "index.html": "/Woodcraft-Furniture---Canadian-Made-Solid-Wood-Furniture-Upholstery-Victoria/index.html",
+    "main.7cd85c31.css.map": "/Woodcraft-Furniture---Canadian-Made-Solid-Wood-Furniture-Upholstery-Victoria/static/css/main.7cd85c31.css.map",
+    "main.10e83895.js.map": "/Woodcraft-Furniture---Canadian-Made-Solid-Wood-Furniture-Upholstery-Victoria/static/js/main.10e83895.js.map",
+    "115.bb70b67e.chunk.js.map": "/Woodcraft-Furniture---Canadian-Made-Solid-Wood-Furniture-Upholstery-Victoria/static/js/115.bb70b67e.chunk.js.map",
+    "111.f0be9581.chunk.js.map": "/Woodcraft-Furniture---Canadian-Made-Solid-Wood-Furniture-Upholstery-Victoria/static/js/111.f0be9581.chunk.js.map",
+    "890.91f800a4.chunk.js.map": "/Woodcraft-Furniture---Canadian-Made-Solid-Wood-Furniture-Upholstery-Victoria/static/js/890.91f800a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cd85c31.css",
+    "static/js/main.10e83895.js"
+  ]
+}
